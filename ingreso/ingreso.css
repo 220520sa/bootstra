@@ -1,0 +1,15 @@
+body{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(23,0,109,1) 46%, rgba(255,0,187,1) 98%); 
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+#imagen{
+    height: 20vh;
+    width: 20vh;
+}
+a{
+    color: blue;
+}
